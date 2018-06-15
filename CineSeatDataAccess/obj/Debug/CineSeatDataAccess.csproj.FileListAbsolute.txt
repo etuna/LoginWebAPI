@@ -1,0 +1,11 @@
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\bin\Debug\CineSeatDataAccess.dll.config
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\bin\Debug\CineSeatDataAccess.dll
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\bin\Debug\CineSeatDataAccess.pdb
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\obj\Debug\CineSeatDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\obj\Debug\CineSeatDataAccess.dll
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\obj\Debug\CineSeatDataAccess.pdb
+C:\Users\etuna\source\repos\SeatingWebAPI\CineSeatDataAccess\obj\Debug\CineSeatDataAccess.csprojResolveAssemblyReference.cache

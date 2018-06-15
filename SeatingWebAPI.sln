@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeatingWebAPI", "SeatingWebAPI\SeatingWebAPI.csproj", "{1BC7E5E2-7DC7-45BC-8CE3-F23FCA5EE1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineSeatDataAccess", "CineSeatDataAccess\CineSeatDataAccess.csproj", "{AD7BE6C5-DB1D-4820-ACA0-1113781A5BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC7E5E2-7DC7-45BC-8CE3-F23FCA5EE1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC7E5E2-7DC7-45BC-8CE3-F23FCA5EE1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC7E5E2-7DC7-45BC-8CE3-F23FCA5EE1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC7E5E2-7DC7-45BC-8CE3-F23FCA5EE1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7BE6C5-DB1D-4820-ACA0-1113781A5BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7BE6C5-DB1D-4820-ACA0-1113781A5BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7BE6C5-DB1D-4820-ACA0-1113781A5BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7BE6C5-DB1D-4820-ACA0-1113781A5BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58EF562D-7278-4AD1-9A56-607185508BF2}
+	EndGlobalSection
+EndGlobal
